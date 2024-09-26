@@ -1,0 +1,7 @@
+version: "3"
+
+tasks:
+  hello:
+    desc: "Test question"
+    cmds:
+      - python3 main.py "say hello"
